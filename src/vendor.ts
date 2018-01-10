@@ -7,6 +7,7 @@ import '@angular/http';
 import '@angular/router';
 
 // RxJS
+/* tslint:disable:import-blacklist */
 import 'rxjs';
 
 // Other vendors for example jQuery, Lodash or Bootstrap
